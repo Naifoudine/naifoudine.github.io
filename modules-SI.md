@@ -1,3 +1,0 @@
----
-Layaout: default
----
